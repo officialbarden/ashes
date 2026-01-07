@@ -1,2 +1,2 @@
-# ashes
-Ashes is a Custom Particles Datapack Library which allows you to procedurally animate item_display entity movement around a point, about a point, or towards a point (and much more!)
+# ASHES - Custom Particles Library
+Ashes is a Custom Particles Library designed with the aim of enabling creativity and customizability of particles, providing as much control to the library user as possible by including various factors that can be configured, as well as providing presets.
